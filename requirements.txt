@@ -2,3 +2,4 @@ seaborn
 statsmodels
 plotly
 streamlit
+yfinance
